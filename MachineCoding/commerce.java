@@ -1,4 +1,4 @@
-package machine_coding;
+package MachineCoding;
 
 import java.util.*;
 
